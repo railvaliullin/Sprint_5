@@ -1,5 +1,7 @@
-package com.example;
-
+import com.example.Cat;
+import com.example.Feline;
+import com.example.Lion;
+import com.example.Predator;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
